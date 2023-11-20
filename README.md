@@ -1,3 +1,6 @@
+# Automation workflow status
+[![Cypress Execution (API Testing / UI Automation)](https://github.com/ycedeno3/Testing/actions/workflows/cypress.yml/badge.svg)](https://github.com/ycedeno3/Testing/actions/workflows/cypress.yml)
+
 # Pre-requisitos para ejecución de automatización✅
 
 * Instalar node (https://nodejs.org/en/)
